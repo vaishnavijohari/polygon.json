@@ -100,7 +100,7 @@
             "name": "Polygon Faucet",
             "url": "https://faucet.polygon.technology/"
         }
-        // Add more faucets if available
+        
     ],
     "rpcs": [
         {
