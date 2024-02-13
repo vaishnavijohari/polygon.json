@@ -1,0 +1,134 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a scalable and interoperable blockchain network. It aims to provide a framework for building multiple chains to improve blockchain scalability and usability.",
+    "tags": [
+        "pos",
+        "sidechain",
+        "ethereum-compatible",
+        "layer 2"
+    ],
+    "coin_details": {
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "10 billion"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "Layer 2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "Ethereum-compatible"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/whitepaper/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.polygon.technology/",
+        "github": "https://github.com/maticnetwork"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/polygon",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community"
+    },
+    "data_aggregator": [
+        {
+            "name": "PolygonScan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/polygon"
+        }
+        
+    ],
+    "explorers": [
+        {
+            "name": "Polygon Explorer",
+            "url": "https://polygon.technology/explorer"
+        },
+        {
+            "name": "Polygonscan",
+            "url": "https://polygonscan.com/?ref=vc.ru"
+        },
+        
+    ],
+    "bridges": [
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        },
+        
+    ],
+    "bounty": [
+        {
+            "name": "Polygon Bug Bounty Program",
+            "url": "https://immunefi.com/bounty/polygon/"
+        }
+        
+    ],
+    "grants": [
+        {
+            "name": "Polygon Foundation Grants",
+            "url": "https://polygon.technology/village/grants"
+        }
+       
+    ],
+    "faucets": [
+        {
+            "name": "Polygon Faucet",
+            "url": "https://faucet.polygon.technology/"
+        }
+        // Add more faucets if available
+    ],
+    "rpcs": [
+        {
+            "name": "Polygon Chainlist",
+            "url": "https://chainlist.org/chain/137"
+        }
+        
+    ],
+    "wallets": [
+        {
+            "name": "Polygon Wallet Finder",
+            "url": "https://wallet.polygon.technology/"
+        },
+        {
+            "name": "Metamask",
+            "url": "https://metamask.io/"
+        }
+        
+    ],
+    "oracles": [
+        {
+            "name": "Polygon Chainlink",
+            "url": "https://chain.link/"
+        },
+        {
+            "name": "Band Protocol",
+            "url": "https://bandprotocol.com/"
+        }
+        
+    ]
+}
